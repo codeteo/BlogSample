@@ -9,6 +9,6 @@
 
     </head>
     <body>
-		<p>This is the About Page</p>
+		<p>This is the Services Page</p>
     </body>
 </html>
